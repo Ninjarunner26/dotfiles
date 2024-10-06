@@ -9,4 +9,4 @@ These are my personal configs for various programs I use on my system
 - Waybar
 - Zsh
 
-Also includes wallpapers I use.
+Also includes wallpapers I use :3
