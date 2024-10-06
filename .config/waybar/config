@@ -1,0 +1,31 @@
+{
+    "layer": "top",
+    "modules-left": ["hyprland/workspaces"],
+    "modules-right": ["tray", "battery", "power-profiles-daemon", "clock"],
+    "battery": {
+        "format": "{capacity}% {icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "clock": {
+	"tooltip": false,
+        "format-alt": "{:%a, %d. %b  %H:%M}"
+    },
+    "power-profiles-daemon": {
+ 	"format": "{icon}",
+ 	"tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+ 	"tooltip": true,
+ 	"format-icons": {
+   		"default": "",
+   		"performance": "",
+   		"balanced": "",
+   		"power-saver": ""
+ 	 }
+    },
+
+    "hyprland/workspaces": {
+    	"persistent-workspaces": {
+             "*": 10
+    	}
+    }
+}
+

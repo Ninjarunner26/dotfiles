@@ -1,0 +1,22 @@
+* {
+	font-family: "RobotoMono Nerd Font";
+	font-size: 12px;
+}
+window#waybar {
+	background-color: #445;
+}
+
+.modules-right * {
+	margin: 0 10px;
+}
+#workspaces button{
+	color: #68e
+}
+
+#workspaces button.empty {
+	color: #aaa
+}
+
+#workspaces button.active {
+        color: #fff
+}
