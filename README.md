@@ -8,5 +8,6 @@ These are my personal configs for various programs I use on my system
 - Dunst
 - Waybar
 - Zsh
+- Neovim
 
 Also includes wallpapers I use :3
