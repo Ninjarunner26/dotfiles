@@ -8,6 +8,7 @@ window#waybar {
 
 .modules-right * {
 	margin: 0 10px;
+	color: #fff;
 }
 #workspaces button{
 	color: #68e
