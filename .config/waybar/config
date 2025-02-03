@@ -8,7 +8,8 @@
     },
     "clock": {
 	"tooltip": false,
-        "format-alt": "{:%a, %d. %b  %H:%M}"
+        "format": "{:%I:%M %p}",
+        "format-alt": "{:%F %I:%M %p}"
     },
     "power-profiles-daemon": {
  	"format": "{icon}",
