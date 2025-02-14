@@ -11,6 +11,10 @@
         "format": "{:%I:%M %p}",
         "format-alt": "{:%F %I:%M %p}"
     },
+    "tray": {
+        "icon-size": 24,
+        "spacing": 10
+    },
     "power-profiles-daemon": {
  	"format": "{icon}",
  	"tooltip-format": "Power profile: {profile}\nDriver: {driver}",

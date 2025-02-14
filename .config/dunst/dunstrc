@@ -1,6 +1,6 @@
 [global]
 monitor = 0
-font = RobotoMono Nerd Font 8
+font = RobotoMono Nerd Font 12
 background = "#445"
 color = "#fff"
 seperator_color = "#fff"
